@@ -475,20 +475,20 @@ WHERE Exited = 0;
 
 
 /*
-5 MOST IMPORTANT FINDING
+5 MOST IMPORTANT FINDINGS
 
-1. Germany is our biggest problem. German churners hold an average balance of $120K, far higher than other countries. This one market accounts 45.47% of the average total lost
-2. Customers with 2 products churn at just 7.6%. excellent retention. But 3-product customers churn at 82.7%, and every single 4-product customer churned (100%). This strongly suggests forced bundling, mis-selling, or product complexity frustrating customers rather than creating loyalty
+1. Germany is our biggest problem. German churners hold an average balance of $120K, far higher than in other countries. This one market accounts 45.47% of the average total lost
+2. Customers with 2 products churn at just 7.6%. excellent retention. But 3-product customers churn at 82.7%, and every single 4-product customer churned (100%). This strongly suggests forced bundling, mis-selling, or product complexity, frustrating customers rather than creating loyalty
 3. The 46–60 age group signals an emergency. More than half (51.1%) of this segment left.
 4. Engagement is our advantage. Inactive members churn at 26.9% vs 14.3% for active members.
-5. Tenure gives no loyalty advantage. Churn is almost flat from year 0 to year 10. This means long-tenured customers are not meaningfully more loyal and this is a problem.
+5. Tenure gives no loyalty advantage. Churn is almost flat from year 0 to year 10. This means long-tenured customers are not meaningfully more loyal, and this is a problem.
 
 
 My Recommendation
 
 1. Let the bank focus on value creation for its product
 2. Germany needs its own dedicated strategy to reduce the churn rate
-3. The bank should focus on age group 46-60 and 30-45 as these group holds 87.59% of the total balance lost.
+3. The bank should focus on the age group 30-60, as this group holds 87.59% of the total balance lost.
 
 
 */
